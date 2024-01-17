@@ -1,7 +1,7 @@
 /*
 * File: App.java
 * Author: Plesovszki István
-* Copyright: 2024, Nagy János
+* Copyright: 2024, Plesovszki István
 * Group: Szoft II/2/N
 * Date: 2024-01-17
 * Github: https://github.com/PlesovszkiIstvan/Testng_dolgozat
