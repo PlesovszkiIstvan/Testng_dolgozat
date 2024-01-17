@@ -24,4 +24,11 @@ public class test {
         double actual = 120;
         Assert.assertEquals(calculated, actual);
     }
+    @Test
+    public void testCalculateDiameterFail(){
+        Calculate calculate = new Calculate();
+        double calculated = calc.calcDiameter(30);
+        double actual = 5;
+        Assert.assertEquals(calculated, actual);
+    }
 }
